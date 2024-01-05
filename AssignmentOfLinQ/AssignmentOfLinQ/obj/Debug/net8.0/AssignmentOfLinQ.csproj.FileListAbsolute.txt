@@ -1,0 +1,14 @@
+C:\NewAPI\AssignmentOfLinQ\AssignmentOfLinQ\bin\Debug\net8.0\AssignmentOfLinQ.exe
+C:\NewAPI\AssignmentOfLinQ\AssignmentOfLinQ\bin\Debug\net8.0\AssignmentOfLinQ.deps.json
+C:\NewAPI\AssignmentOfLinQ\AssignmentOfLinQ\bin\Debug\net8.0\AssignmentOfLinQ.runtimeconfig.json
+C:\NewAPI\AssignmentOfLinQ\AssignmentOfLinQ\bin\Debug\net8.0\AssignmentOfLinQ.dll
+C:\NewAPI\AssignmentOfLinQ\AssignmentOfLinQ\bin\Debug\net8.0\AssignmentOfLinQ.pdb
+C:\NewAPI\AssignmentOfLinQ\AssignmentOfLinQ\obj\Debug\net8.0\AssignmentOfLinQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\NewAPI\AssignmentOfLinQ\AssignmentOfLinQ\obj\Debug\net8.0\AssignmentOfLinQ.AssemblyInfoInputs.cache
+C:\NewAPI\AssignmentOfLinQ\AssignmentOfLinQ\obj\Debug\net8.0\AssignmentOfLinQ.AssemblyInfo.cs
+C:\NewAPI\AssignmentOfLinQ\AssignmentOfLinQ\obj\Debug\net8.0\AssignmentOfLinQ.csproj.CoreCompileInputs.cache
+C:\NewAPI\AssignmentOfLinQ\AssignmentOfLinQ\obj\Debug\net8.0\AssignmentOfLinQ.dll
+C:\NewAPI\AssignmentOfLinQ\AssignmentOfLinQ\obj\Debug\net8.0\refint\AssignmentOfLinQ.dll
+C:\NewAPI\AssignmentOfLinQ\AssignmentOfLinQ\obj\Debug\net8.0\AssignmentOfLinQ.pdb
+C:\NewAPI\AssignmentOfLinQ\AssignmentOfLinQ\obj\Debug\net8.0\AssignmentOfLinQ.genruntimeconfig.cache
+C:\NewAPI\AssignmentOfLinQ\AssignmentOfLinQ\obj\Debug\net8.0\ref\AssignmentOfLinQ.dll
